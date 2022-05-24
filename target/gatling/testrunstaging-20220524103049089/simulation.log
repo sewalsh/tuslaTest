@@ -1,0 +1,703 @@
+RUN	tuslaGatling.TestRunStaging	testrunstaging	1653388249089	 	3.6.1
+USER	TestRunStaging	START	1653388250935
+USER	TestRunStaging	START	1653388250935
+USER	TestRunStaging	START	1653388250935
+USER	TestRunStaging	START	1653388250935
+USER	TestRunStaging	START	1653388250935
+USER	TestRunStaging	START	1653388250935
+USER	TestRunStaging	START	1653388250935
+USER	TestRunStaging	START	1653388250935
+USER	TestRunStaging	START	1653388250935
+USER	TestRunStaging	START	1653388250935
+REQUEST		/account/login	1653388250990	1653388251208	OK	 
+REQUEST		/account/login	1653388250990	1653388251198	OK	 
+REQUEST		/account/login	1653388250990	1653388251239	OK	 
+REQUEST		/account/login	1653388250990	1653388251220	OK	 
+REQUEST		/account/login	1653388250990	1653388251222	OK	 
+REQUEST		/account/login	1653388250990	1653388251239	OK	 
+REQUEST		/account/login	1653388250990	1653388251248	OK	 
+REQUEST		/account/login	1653388250990	1653388251205	OK	 
+REQUEST		/account/login	1653388250990	1653388251239	OK	 
+REQUEST		/account/login	1653388250990	1653388251240	OK	 
+REQUEST		/assets/appconfig.production.json?d=1653386917456	1653388251398	1653388251444	OK	 
+REQUEST		/assets/appconfig.production.json?d=1653386917456	1653388251402	1653388251446	OK	 
+REQUEST		/assets/appconfig.production.json?d=1653386917456	1653388251398	1653388251444	OK	 
+REQUEST		/assets/appconfig.production.json?d=1653386917456	1653388251406	1653388251446	OK	 
+REQUEST		/assets/appconfig.production.json?d=1653386917456	1653388251400	1653388251444	OK	 
+REQUEST		/assets/appconfig.production.json?d=1653386917456	1653388251399	1653388251444	OK	 
+REQUEST		/assets/appconfig.production.json?d=1653386917456	1653388251398	1653388251447	OK	 
+REQUEST		/assets/appconfig.production.json?d=1653386917456	1653388251398	1653388251449	OK	 
+REQUEST		/assets/appconfig.production.json?d=1653386917456	1653388251401	1653388251449	OK	 
+REQUEST		/assets/appconfig.production.json?d=1653386917456	1653388251398	1653388251449	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386917598	1653388251401	1653388251619	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251405	1653388251624	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386917598	1653388251400	1653388251624	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388251401	1653388251638	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386917598	1653388251403	1653388251641	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386917598	1653388251400	1653388251643	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386917598	1653388251400	1653388251643	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388251401	1653388251644	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388251401	1653388251688	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251406	1653388251688	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386917598	1653388251403	1653388251688	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251405	1653388251691	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251405	1653388251708	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251404	1653388251708	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388251414	1653388251710	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251403	1653388251710	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251410	1653388251710	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388251403	1653388251710	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251403	1653388251710	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386917598	1653388251406	1653388251712	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251404	1653388251754	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251411	1653388251754	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386917598	1653388251411	1653388251754	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251410	1653388251754	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251409	1653388251755	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388251405	1653388251756	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388251405	1653388251767	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251415	1653388251767	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251417	1653388251779	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251417	1653388251779	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251417	1653388251779	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251414	1653388251781	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386917598	1653388251410	1653388251781	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388251416	1653388251793	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388251416	1653388251793	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386917598	1653388251415	1653388251795	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251418	1653388251796	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251418	1653388251838	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251416	1653388252307	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388251412	1653388252320	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251624	1653388252350	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251624	1653388252350	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251619	1653388252351	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251643	1653388252353	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251645	1653388252353	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251642	1653388252353	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251638	1653388252353	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388251404	1653388252353	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251710	1653388252353	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251643	1653388252354	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251689	1653388252355	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251689	1653388252355	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251710	1653388252355	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251754	1653388252358	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251780	1653388252358	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251780	1653388252358	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251754	1653388252358	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388251406	1653388252359	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388251415	1653388252359	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388251406	1653388252359	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251782	1653388252359	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251768	1653388252359	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251794	1653388252359	OK	 
+REQUEST		/api/TokenAuth/GetExternalAuthenticationProviders	1653388251712	1653388252359	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388251402	1653388252359	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388251403	1653388252360	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388251417	1653388252360	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388251413	1653388252360	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388251402	1653388252363	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388251417	1653388252363	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386917598	1653388251402	1653388252380	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386917598	1653388251415	1653388252380	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386917598	1653388251401	1653388252380	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386917598	1653388251401	1653388252380	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386917598	1653388251404	1653388252381	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386917598	1653388251401	1653388252383	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386917598	1653388251405	1653388252383	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386917598	1653388251415	1653388252383	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386917598	1653388251411	1653388252383	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386917598	1653388251410	1653388252384	OK	 
+REQUEST		/api/TokenAuth/Authenticate	1653388264388	1653388264439	OK	 
+REQUEST		/api/TokenAuth/Authenticate	1653388264388	1653388264439	OK	 
+REQUEST		/api/TokenAuth/Authenticate	1653388264388	1653388264439	OK	 
+REQUEST		/api/TokenAuth/Authenticate	1653388264388	1653388264439	OK	 
+REQUEST		/api/TokenAuth/Authenticate	1653388264388	1653388264439	OK	 
+REQUEST		/api/TokenAuth/Authenticate	1653388264388	1653388264441	OK	 
+REQUEST		/api/TokenAuth/Authenticate	1653388264389	1653388264441	OK	 
+REQUEST		/api/TokenAuth/Authenticate	1653388264389	1653388264443	OK	 
+REQUEST		/api/TokenAuth/Authenticate	1653388264389	1653388264443	OK	 
+REQUEST		request_12	1653388264445	1653388264476	OK	 
+REQUEST		request_12	1653388264445	1653388264477	OK	 
+REQUEST		request_12	1653388264445	1653388264477	OK	 
+REQUEST		request_12	1653388264445	1653388264477	OK	 
+REQUEST		request_12	1653388264445	1653388264478	OK	 
+REQUEST		request_12	1653388264445	1653388264478	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386935431	1653388264448	1653388264480	OK	 
+REQUEST		request_12	1653388264446	1653388264481	OK	 
+REQUEST		request_12	1653388264447	1653388264495	OK	 
+REQUEST		request_12	1653388264448	1653388264495	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386935431	1653388264449	1653388264497	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388264449	1653388264563	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388264449	1653388264563	OK	 
+REQUEST		/assets/appconfig.production.json?d=1653386935306	1653388264445	1653388264564	OK	 
+REQUEST		/assets/appconfig.production.json?d=1653386935306	1653388264447	1653388264570	OK	 
+REQUEST		/assets/appconfig.production.json?d=1653386935306	1653388264445	1653388264570	OK	 
+REQUEST		/assets/appconfig.production.json?d=1653386935306	1653388264445	1653388264578	OK	 
+REQUEST		/assets/appconfig.production.json?d=1653386935306	1653388264449	1653388264578	OK	 
+REQUEST		/assets/appconfig.production.json?d=1653386935306	1653388264445	1653388264578	OK	 
+REQUEST		/assets/appconfig.production.json?d=1653386935306	1653388264445	1653388264579	OK	 
+REQUEST		/assets/appconfig.production.json?d=1653386935306	1653388264447	1653388264579	OK	 
+REQUEST		/assets/appconfig.production.json?d=1653386935306	1653388264445	1653388264580	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386935431	1653388264452	1653388265364	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386935431	1653388264452	1653388265364	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386935431	1653388264452	1653388268386	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388264449	1653388269352	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388264453	1653388269352	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388264450	1653388269370	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386935431	1653388264450	1653388269370	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388264450	1653388269370	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388264453	1653388271882	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386935431	1653388264448	1653388273850	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386935431	1653388264449	1653388273850	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386935431	1653388264448	1653388273850	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388264453	1653388276351	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388264451	1653388277867	OK	 
+REQUEST		/api/TokenAuth/Authenticate	1653388264389	1653388278009	OK	 
+REQUEST		request_12	1653388278010	1653388278034	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386935431	1653388278013	1653388278072	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388278014	1653388278082	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388264454	1653388278147	OK	 
+REQUEST		/assets/appconfig.production.json?d=1653386935306	1653388278011	1653388278189	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386935431	1653388264453	1653388278189	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386935431	1653388264449	1653388278189	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386935431	1653388264453	1653388278193	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386935431	1653388264449	1653388278211	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386935431	1653388264451	1653388278211	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388264450	1653388278211	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388264454	1653388278211	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388264450	1653388278211	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386935431	1653388264449	1653388278212	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388264451	1653388278215	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388264451	1653388278215	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388264452	1653388278217	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386935431	1653388264449	1653388278227	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388264454	1653388278236	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388264450	1653388278582	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386935431	1653388278013	1653388278582	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386935431	1653388264453	1653388278582	OK	 
+REQUEST		/api/services/app/Session/GetCurrentLoginInformations	1653388278014	1653388278583	OK	 
+REQUEST		/api/TokenAuth/Authenticate	1653388264446	1653388278583	OK	 
+REQUEST		/AbpUserConfiguration/GetAll?d=1653386935431	1653388264449	1653388278583	OK	 
+REQUEST		/api/TokenAuth/Authenticate	1653388264447	1653388278694	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 500
+REQUEST		/api/TokenAuth/Authenticate	1653388264446	1653388278696	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 500
+REQUEST		/api/TokenAuth/Authenticate	1653388278012	1653388278698	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 500
+REQUEST		/api/TokenAuth/Authenticate	1653388264446	1653388278700	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 500
+REQUEST		/api/TokenAuth/Authenticate	1653388264448	1653388278701	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 500
+REQUEST		/api/TokenAuth/Authenticate	1653388264449	1653388278702	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 500
+REQUEST		/api/TokenAuth/Authenticate	1653388264447	1653388278705	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 500
+REQUEST		/api/TokenAuth/Authenticate	1653388264448	1653388278705	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 500
+REQUEST		/api/TokenAuth/Authenticate	1653388264447	1653388278707	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 500
+REQUEST		/api/services/app/TCMRecordSets/UseReferralOrCaseTerm	1653388279586	1653388279608	OK	 
+REQUEST		/api/services/app/TCMOrganizationUnit/UserHasOrganizationUnit	1653388279614	1653388279636	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279616	1653388279639	OK	 
+REQUEST		/api/services/app/Notification/GetUserNotifications?SkipCount=0	1653388279615	1653388279640	OK	 
+REQUEST		api/services/app/UserLink/GetRecentlyUsedLinkedUsers	1653388279616	1653388279642	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279618	1653388279643	OK	 
+REQUEST		/api/services/app/DashboardCustomization/GetDashboardDefinition?DashboardName=TenantDashboard&Application=Angular	1653388279617	1653388279644	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388279636	1653388279652	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388279640	1653388279665	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279653	1653388279684	OK	 
+REQUEST		/line-awesome.4b43b038741cb489a502.woff2?v=1.1.	1653388279614	1653388279694	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279645	1653388279695	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279644	1653388279698	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279666	1653388279699	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279641	1653388279708	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279642	1653388279710	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMRecordSets/UseReferralOrCaseTerm	1653388279701	1653388279735	OK	 
+REQUEST		/api/services/app/TCMRecordSets/UseReferralOrCaseTerm	1653388279717	1653388279738	OK	 
+REQUEST		/api/services/app/TCMRecordSets/UseReferralOrCaseTerm	1653388279701	1653388279738	OK	 
+REQUEST		/api/services/app/TCMRecordSets/UseReferralOrCaseTerm	1653388279717	1653388279738	OK	 
+REQUEST		/api/services/app/TCMRecordSets/UseReferralOrCaseTerm	1653388279701	1653388279738	OK	 
+REQUEST		/api/services/app/TCMRecordSets/UseReferralOrCaseTerm	1653388279717	1653388279738	OK	 
+REQUEST		/api/services/app/TCMRecordSets/UseReferralOrCaseTerm	1653388279717	1653388279748	OK	 
+REQUEST		/api/services/app/TCMRecordSets/UseReferralOrCaseTerm	1653388279717	1653388279749	OK	 
+REQUEST		/api/services/app/TCMRecordSets/UseReferralOrCaseTerm	1653388279717	1653388279749	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279696	1653388279757	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279685	1653388279758	OK	 
+REQUEST		/api/services/app/TCMOrganizationUnit/UserHasOrganizationUnit	1653388279700	1653388279762	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMOrganizationUnit/UserHasOrganizationUnit	1653388279746	1653388279764	OK	 
+REQUEST		/api/services/app/TCMOrganizationUnit/UserHasOrganizationUnit	1653388279746	1653388279766	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279745	1653388279766	OK	 
+REQUEST		/api/services/app/TCMOrganizationUnit/UserHasOrganizationUnit	1653388279746	1653388279766	OK	 
+REQUEST		/api/services/app/TCMRecordSets/UseReferralOrCaseTerm	1653388279698	1653388279767	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		api/services/app/UserLink/GetRecentlyUsedLinkedUsers	1653388279746	1653388279768	OK	 
+REQUEST		/api/services/app/Notification/GetUserNotifications?SkipCount=0	1653388279746	1653388279768	OK	 
+REQUEST		/api/services/app/Notification/GetUserNotifications?SkipCount=0	1653388279746	1653388279768	OK	 
+REQUEST		/api/services/app/Notification/GetUserNotifications?SkipCount=0	1653388279746	1653388279768	OK	 
+REQUEST		/api/services/app/Notification/GetUserNotifications?SkipCount=0	1653388279710	1653388279771	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/Notification/GetUserNotifications?SkipCount=0	1653388279745	1653388279771	OK	 
+REQUEST		/api/services/app/Notification/GetUserNotifications?SkipCount=0	1653388279746	1653388279771	OK	 
+REQUEST		/api/services/app/Notification/GetUserNotifications?SkipCount=0	1653388279746	1653388279777	OK	 
+REQUEST		/api/services/app/DashboardCustomization/GetDashboardDefinition?DashboardName=TenantDashboard&Application=Angular	1653388279748	1653388279778	OK	 
+REQUEST		api/services/app/UserLink/GetRecentlyUsedLinkedUsers	1653388279747	1653388279778	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279747	1653388279778	OK	 
+REQUEST		/api/services/app/TCMOrganizationUnit/UserHasOrganizationUnit	1653388279746	1653388279779	OK	 
+REQUEST		/api/services/app/DashboardCustomization/GetDashboardDefinition?DashboardName=TenantDashboard&Application=Angular	1653388279748	1653388279781	OK	 
+REQUEST		/api/services/app/TCMOrganizationUnit/UserHasOrganizationUnit	1653388279746	1653388279782	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279748	1653388279781	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279747	1653388279783	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279747	1653388279784	OK	 
+REQUEST		api/services/app/UserLink/GetRecentlyUsedLinkedUsers	1653388279747	1653388279785	OK	 
+REQUEST		api/services/app/UserLink/GetRecentlyUsedLinkedUsers	1653388279747	1653388279784	OK	 
+REQUEST		/api/services/app/DashboardCustomization/GetDashboardDefinition?DashboardName=TenantDashboard&Application=Angular	1653388279748	1653388279784	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279748	1653388279786	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279748	1653388279786	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279747	1653388279786	OK	 
+REQUEST		/api/services/app/DashboardCustomization/GetDashboardDefinition?DashboardName=TenantDashboard&Application=Angular	1653388279746	1653388279786	OK	 
+REQUEST		/api/services/app/DashboardCustomization/GetDashboardDefinition?DashboardName=TenantDashboard&Application=Angular	1653388279748	1653388279787	OK	 
+REQUEST		/api/services/app/TCMOrganizationUnit/UserHasOrganizationUnit	1653388279744	1653388279787	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279747	1653388279788	OK	 
+REQUEST		api/services/app/UserLink/GetRecentlyUsedLinkedUsers	1653388279747	1653388279786	OK	 
+REQUEST		api/services/app/UserLink/GetRecentlyUsedLinkedUsers	1653388279747	1653388279789	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279747	1653388279790	OK	 
+REQUEST		/api/services/app/DashboardCustomization/GetDashboardDefinition?DashboardName=TenantDashboard&Application=Angular	1653388279748	1653388279791	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279748	1653388279791	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279748	1653388279792	OK	 
+REQUEST		/api/services/app/Notification/GetUserNotifications?SkipCount=0	1653388279756	1653388279793	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279757	1653388279793	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279757	1653388279794	OK	 
+REQUEST		/api/services/app/Notification/GetUserNotifications?SkipCount=0	1653388279756	1653388279795	OK	 
+REQUEST		/api/services/app/Notification/GetUserNotifications?SkipCount=0	1653388279756	1653388279798	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279758	1653388279798	OK	 
+REQUEST		/api/services/app/DashboardCustomization/GetDashboardDefinition?DashboardName=TenantDashboard&Application=Angular	1653388279758	1653388279798	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279758	1653388279800	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279759	1653388279800	OK	 
+REQUEST		/api/services/app/DashboardCustomization/GetDashboardDefinition?DashboardName=TenantDashboard&Application=Angular	1653388279758	1653388279800	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388279759	1653388279801	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279756	1653388279801	OK	 
+REQUEST		api/services/app/UserLink/GetRecentlyUsedLinkedUsers	1653388279758	1653388279801	OK	 
+REQUEST		/api/services/app/TCMOrganizationUnit/UserHasOrganizationUnit	1653388279756	1653388279802	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388279765	1653388279802	OK	 
+REQUEST		/api/services/app/TCMOrganizationUnit/UserHasOrganizationUnit	1653388279756	1653388279803	OK	 
+REQUEST		api/services/app/UserLink/GetRecentlyUsedLinkedUsers	1653388279757	1653388279803	OK	 
+REQUEST		api/services/app/UserLink/GetRecentlyUsedLinkedUsers	1653388279758	1653388279803	OK	 
+REQUEST		/api/services/app/TCMOrganizationUnit/UserHasOrganizationUnit	1653388279755	1653388279804	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279759	1653388279804	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388279766	1653388279804	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388279766	1653388279804	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388279769	1653388279805	OK	 
+REQUEST		/api/services/app/DashboardCustomization/GetDashboardDefinition?DashboardName=TenantDashboard&Application=Angular	1653388279758	1653388279806	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388279769	1653388279809	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388279769	1653388279812	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388279766	1653388279812	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388279771	1653388279814	OK	 
+REQUEST		/api/services/app/TCMCases/GetAllMyOpenCases	1653388279771	1653388279814	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388279768	1653388279816	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388279780	1653388279817	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388279778	1653388279817	OK	 
+REQUEST		/api/services/app/DashboardCustomization/GetDashboardDefinition?DashboardName=TenantDashboard&Application=Angular	1653388279709	1653388279820	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388279762	1653388279822	OK	 
+REQUEST		/line-awesome.4b43b038741cb489a502.woff2?v=1.1.	1653388279745	1653388279835	OK	 
+REQUEST		/line-awesome.4b43b038741cb489a502.woff2?v=1.1.	1653388279743	1653388279835	OK	 
+REQUEST		/line-awesome.4b43b038741cb489a502.woff2?v=1.1.	1653388279745	1653388279837	OK	 
+REQUEST		/line-awesome.4b43b038741cb489a502.woff2?v=1.1.	1653388279745	1653388279837	OK	 
+REQUEST		/line-awesome.4b43b038741cb489a502.woff2?v=1.1.	1653388279745	1653388279838	OK	 
+REQUEST		/line-awesome.4b43b038741cb489a502.woff2?v=1.1.	1653388279754	1653388279845	OK	 
+REQUEST		/line-awesome.4b43b038741cb489a502.woff2?v=1.1.	1653388279745	1653388279845	OK	 
+REQUEST		/line-awesome.4b43b038741cb489a502.woff2?v=1.1.	1653388279755	1653388279846	OK	 
+REQUEST		/line-awesome.4b43b038741cb489a502.woff2?v=1.1.	1653388279755	1653388279849	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388279778	1653388279859	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388279794	1653388279877	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388279795	1653388279877	OK	 
+REQUEST		/api/services/app/TCMTasks/GetAllMyOpenTasks	1653388279799	1653388279877	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388279795	1653388279878	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388279793	1653388279896	OK	 
+REQUEST		/api/services/app/TCMTasks/GetTeamTasksSummary	1653388279802	1653388279909	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279806	1653388279909	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279803	1653388279910	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279878	1653388279927	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279821	1653388279927	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279818	1653388279927	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279818	1653388279928	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279879	1653388279928	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279878	1653388279929	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279860	1653388279929	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279878	1653388279929	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279897	1653388279932	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279813	1653388280846	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279809	1653388280846	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388279800	1653388280858	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388279799	1653388280859	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279805	1653388280880	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279805	1653388280880	OK	 
+REQUEST		/api/services/app/TCMTasks/GetMyTasksSummary	1653388279814	1653388280880	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279813	1653388280880	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279816	1653388280882	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279814	1653388280882	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388279928	1653388282346	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279784	1653388282354	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279791	1653388282354	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279785	1653388284360	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279778	1653388284362	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388280858	1653388284362	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388279767	1653388284362	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279785	1653388284363	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388280860	1653388284363	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279788	1653388284363	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279787	1653388284364	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279787	1653388290342	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279785	1653388290343	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279788	1653388290343	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279778	1653388290343	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279771	1653388290344	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMTasks/GetMyTasksSummary	1653388282347	1653388305881	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMRecordSets/UseReferralOrCaseTerm	1653388284364	1653388305881	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMRecordSets/UseReferralOrCaseTerm	1653388290343	1653388305881	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279929	1653388305890	OK	 
+REQUEST		/api/services/app/UserLink/GetRecentlyUsedLinkedUsers	1653388279909	1653388305890	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279803	1653388305892	OK	 
+REQUEST		/api/services/app/TCMOrganizationUnit/UserHasOrganizationUnit	1653388290342	1653388305900	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388280881	1653388305905	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279928	1653388305906	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279785	1653388305906	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279928	1653388305910	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279787	1653388305911	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388280882	1653388305911	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279801	1653388305915	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMCases/GetAllMyOpenCases	1653388284363	1653388305916	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279805	1653388305920	OK	 
+REQUEST		/api/services/app/TCMOrganizationUnit/UserHasOrganizationUnit	1653388290343	1653388305920	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388280881	1653388305920	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279782	1653388305924	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMRecordSets/UseReferralOrCaseTerm	1653388284361	1653388305925	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279802	1653388305925	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279791	1653388305926	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388280846	1653388305926	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388280882	1653388305926	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279789	1653388305927	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279787	1653388305928	OK	 
+REQUEST		/api/services/app/TCMTasks/GetAllMyOpenTasks	1653388279929	1653388305929	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279802	1653388305929	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279782	1653388305933	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279822	1653388305935	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279909	1653388305935	OK	 
+REQUEST		/api/services/app/TCMRecordSets/UseReferralOrCaseTerm	1653388282355	1653388305935	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279911	1653388305936	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388280846	1653388305936	OK	 
+REQUEST		/api/services/app/TCMRecordSets/UseReferralOrCaseTerm	1653388282355	1653388305937	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388284364	1653388305940	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388280881	1653388305940	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279801	1653388305943	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMOrganizationUnit/UserHasOrganizationUnit	1653388284365	1653388305948	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/DashboardCustomization/GetDashboardDefinition?DashboardName=TenantDashboard&Application=Angular	1653388290344	1653388305950	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279789	1653388305952	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279804	1653388305952	OK	 
+REQUEST		/signalr-chat?enc_auth_token=	1653388305891	1653388305955	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388305927	1653388305973	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388305927	1653388305973	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388280881	1653388305990	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388305930	1653388305989	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279799	1653388305990	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMRecordSets/UseReferralOrCaseTerm	1653388284363	1653388305990	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279793	1653388305990	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279932	1653388305990	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279929	1653388305991	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279791	1653388305991	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279803	1653388305991	OK	 
+REQUEST		/api/services/app/TCMOrganizationUnit/GetUserOrganizationUnits	1653388305955	1653388305994	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388305935	1653388305997	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388305952	1653388306015	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388305928	1653388306039	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388305928	1653388306039	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388305935	1653388306062	OK	 
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279802	1653388306062	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279928	1653388306062	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388305920	1653388306064	OK	 
+REQUEST		/api/services/app/TCMOrganizationUnit/UserHasOrganizationUnit	1653388290343	1653388306064	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388305925	1653388306064	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279788	1653388306064	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388305991	1653388306065	OK	 
+REQUEST		/api/services/app/TCMCases/GetAll?Filter=&EntityId=0&ShowAll=false&Sorting=lastModificationTime%20DESC&SkipCount=0&MaxResultCount=10	1653388305990	1653388306065	OK	 
+REQUEST		/api/services/app/TCMCases/GetAllMyOpenCases	1653388305990	1653388306065	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388305937	1653388306065	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388305937	1653388306065	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388305992	1653388306067	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388305940	1653388306067	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388305990	1653388306066	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388305990	1653388306067	OK	 
+REQUEST		/api/services/app/TCMOrganizationUnit/UserHasOrganizationUnit	1653388284364	1653388306067	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279781	1653388306069	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMCases/GetAllMyOpenCases	1653388306039	1653388306074	OK	 
+REQUEST		/api/services/app/Notification/GetUserNotifications?SkipCount=0	1653388305907	1653388306085	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMCases/GetAllMyOpenCases	1653388306063	1653388306087	OK	 
+REQUEST		/api/services/app/TCMTasks/GetAllMyOpenTasks	1653388306065	1653388306089	OK	 
+REQUEST		/api/services/app/TCMTasks/GetTeamTasksSummary	1653388306065	1653388306089	OK	 
+REQUEST		/api/services/app/DashboardCustomization/GetDashboardDefinition?DashboardName=TenantDashboard&Application=Angular	1653388305912	1653388306092	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/Notification/GetUserNotifications?SkipCount=0	1653388305920	1653388306095	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMRecordSets/UseReferralOrCaseTerm	1653388305893	1653388306099	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMTasks/GetTeamTasksSummary	1653388306074	1653388306101	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388305948	1653388306102	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388306063	1653388306102	OK	 
+REQUEST		/api/services/app/TCMRecordSets/UseReferralOrCaseTerm	1653388305911	1653388306103	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/Notification/GetUserNotifications?SkipCount=0	1653388305912	1653388306107	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMTasks/GetAllMyOpenTasks	1653388306068	1653388306110	OK	 
+REQUEST		/api/services/app/TCMCases/GetAllMyOpenCases	1653388306069	1653388306110	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388305951	1653388306110	OK	 
+REQUEST		/api/services/app/Notification/GetUserNotifications?SkipCount=0	1653388305935	1653388306111	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr-chat?enc_auth_token=	1653388306065	1653388306122	OK	 
+REQUEST		/api/services/app/TCMCases/GetAllMyOpenCases	1653388306066	1653388306122	OK	 
+REQUEST		/api/services/app/TCMOrganizationUnit/UserHasOrganizationUnit	1653388305907	1653388306123	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388306089	1653388306123	OK	 
+REQUEST		/api/services/app/Notification/GetUserNotifications?SkipCount=0	1653388305926	1653388306125	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMCases/GetAllMyOpenCases	1653388306099	1653388306127	OK	 
+REQUEST		/api/services/app/TCMTasks/GetTeamTasksSummary	1653388306096	1653388306127	OK	 
+REQUEST		/api/services/app/TCMTasks/GetTeamTasksSummary	1653388305882	1653388306128	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388306103	1653388306128	OK	 
+REQUEST		/api/services/app/TCMTasks/GetAllMyOpenTasks	1653388306039	1653388306130	OK	 
+REQUEST		/api/services/app/TCMTasks/GetMyTasksSummary	1653388306066	1653388306131	OK	 
+REQUEST		/api/services/app/Notification/GetUserNotifications?SkipCount=0	1653388305991	1653388306146	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMTasks/GetAllMyOpenTasks	1653388306067	1653388306146	OK	 
+REQUEST		/api/services/app/TCMCases/GetAllMyOpenCases	1653388306067	1653388306146	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388284363	1653388306161	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279928	1653388306161	OK	 
+REQUEST		/api/services/app/DashboardCustomization/GetDashboardDefinition?DashboardName=TenantDashboard&Application=Angular	1653388305901	1653388306202	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/Profile/GetProfilePicture	1653388279803	1653388306202	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388279807	1653388306203	OK	 
+REQUEST		/api/services/app/TCMOrganizationUnit/UserHasOrganizationUnit	1653388305882	1653388306211	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMTasks/GetMyTasksSummary	1653388306111	1653388306215	OK	 
+REQUEST		/signalr-chat?enc_auth_token=	1653388306123	1653388306222	OK	 
+REQUEST		/api/services/app/TCMTasks/GetAllMyOpenTasks	1653388306123	1653388306222	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388306146	1653388306237	OK	 
+REQUEST		/api/services/app/TCMTasks/GetTeamTasksSummary	1653388306085	1653388306237	OK	 
+REQUEST		/api/services/app/DashboardCustomization/GetDashboardDefinition?DashboardName=TenantDashboard&Application=Angular	1653388305943	1653388306237	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMTasks/GetMyTasksSummary	1653388306101	1653388306237	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388305973	1653388306237	OK	 
+REQUEST		/api/services/app/TCMTasks/GetAllMyOpenTasks	1653388306108	1653388306237	OK	 
+REQUEST		/api/services/app/TCMTasks/GetAllMyOpenTasks	1653388306093	1653388306237	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306129	1653388306237	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388306089	1653388306238	OK	 
+REQUEST		/api/services/app/TCMCases/GetAllMyOpenCases	1653388306104	1653388306238	OK	 
+REQUEST		/api/services/app/TCMTasks/GetMyTasksSummary	1653388306162	1653388306238	OK	 
+REQUEST		/api/services/app/TCMTasks/GetTeamTasksSummary	1653388306127	1653388306238	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306131	1653388306238	OK	 
+REQUEST		/api/services/app/TCMTasks/GetAllMyOpenTasks	1653388306146	1653388306239	OK	 
+REQUEST		/api/services/app/DashboardCustomization/GetDashboardDefinition?DashboardName=TenantDashboard&Application=Angular	1653388305915	1653388306239	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMTasks/GetMyTasksSummary	1653388306088	1653388306239	OK	 
+REQUEST		/api/services/app/TCMTasks/GetTeamTasksSummary	1653388306123	1653388306239	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388306065	1653388306255	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388306065	1653388306258	OK	 
+REQUEST		/api/services/app/DashboardCustomization/GetDashboardDefinition?DashboardName=TenantDashboard&Application=Angular	1653388305952	1653388306260	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388306123	1653388306262	OK	 
+REQUEST		/api/services/app/TCMTasks/GetMyTasksSummary	1653388306112	1653388306262	OK	 
+REQUEST		/api/services/app/TCMTasks/GetTeamTasksSummary	1653388306111	1653388306263	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388306146	1653388306265	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388306127	1653388306265	OK	 
+REQUEST		/api/services/app/DashboardCustomization/GetDashboardDefinition?DashboardName=TenantDashboard&Application=Angular	1653388305882	1653388306266	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr?enc_auth_token=	1653388305916	1653388306267	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 404
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388306065	1653388306269	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388305937	1653388306270	OK	 
+REQUEST		/api/services/app/Notification/GetUserNotifications?SkipCount=0	1653388305930	1653388306273	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr?enc_auth_token=wNYm	1653388306063	1653388306274	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 404
+REQUEST		/api/services/app/TCMRecordSets/UseReferralOrCaseTerm	1653388305926	1653388306277	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMOrganizationUnit/UserHasOrganizationUnit	1653388305920	1653388306278	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/Notification/GetUserNotifications?SkipCount=0	1653388305927	1653388306280	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMOrganizationUnit/UserHasOrganizationUnit	1653388305940	1653388306284	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388305997	1653388306284	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388306129	1653388306284	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388305991	1653388306285	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388305992	1653388306285	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388305905	1653388306285	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 404
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388306202	1653388306288	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388306204	1653388306289	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306222	1653388306291	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388306215	1653388306291	OK	 
+REQUEST		/api/services/app/TCMTasks/GetMyTasksSummary	1653388306222	1653388306291	OK	 
+REQUEST		/api/services/app/Notification/GetUserNotifications?SkipCount=0	1653388306162	1653388306307	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr?enc_auth_token=w	1653388305995	1653388306308	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 404
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388306067	1653388306309	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388306015	1653388306309	OK	 
+REQUEST		/api/services/app/TCMTasks/GetTeamTasksSummary	1653388306237	1653388306315	OK	 
+REQUEST		/api/services/app/TCMTasks/GetMyTasksSummary	1653388306238	1653388306321	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388306239	1653388306325	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306239	1653388306326	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306264	1653388306343	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388306239	1653388306343	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306265	1653388306348	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388306237	1653388306364	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388306238	1653388306364	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388306237	1653388306364	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306291	1653388306371	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388306255	1653388306371	OK	 
+REQUEST		/api/services/app/DashboardCustomization/GetDashboardDefinition?DashboardName=TenantDashboard&Application=Angular	1653388305891	1653388306371	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMTasks/GetAllMyOpenTasks	1653388306288	1653388306371	OK	 
+REQUEST		/api/services/app/TCMTasks/GetTeamTasksSummary	1653388306289	1653388306372	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388306068	1653388306372	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388306103	1653388306372	OK	 
+REQUEST		signalr-chat?enc_auth_token=w	1653388306308	1653388306372	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388306309	1653388306374	OK	 
+REQUEST		/api/services/app/TCMTasks/GetMyTasksSummary	1653388306308	1653388306374	OK	 
+REQUEST		/api/services/app/DashboardCustomization/GetDashboardDefinition?DashboardName=TenantDashboard&Application=Angular	1653388305934	1653388306374	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr?enc_auth_token=	1653388306285	1653388306375	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388305973	1653388306410	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388306066	1653388306409	OK	 
+REQUEST		/api/services/app/TCMTasks/GetAllMyOpenTasks	1653388306132	1653388306409	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388306111	1653388306426	OK	 
+REQUEST		/api/services/app/Chat/GetUserChatFriendsWithSetting	1653388306372	1653388306441	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306322	1653388306452	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388306371	1653388306454	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388306374	1653388306481	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306266	1653388306523	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388306269	1653388306530	OK	 
+REQUEST		/api/services/app/TCMCases/GetAllMyOpenCases	1653388306284	1653388306543	OK	 
+REQUEST		/api/services/app/UserLink/GetRecentlyUsedLinkedUsers	1653388306125	1653388306546	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388306237	1653388306553	OK	 
+REQUEST		/signalr-chat?enc_auth_token=	1653388306427	1653388306568	OK	 
+REQUEST		/api/services/app/UserLink/GetRecentlyUsedLinkedUsers	1653388306258	1653388306570	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr?enc_auth_token=wNY	1653388306441	1653388306570	OK	 
+REQUEST		/api/services/app/UserLink/GetRecentlyUsedLinkedUsers	1653388306237	1653388306574	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr?enc_auth_token=	1653388306482	1653388306583	OK	 
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388306212	1653388306585	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388306261	1653388306585	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388306237	1653388306585	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388306281	1653388306585	OK	 
+REQUEST		/api/services/app/TCMTasks/GetMyTasksSummary	1653388306238	1653388306593	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr?enc_auth_token=w	1653388306274	1653388306593	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 404
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388306202	1653388306593	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388306278	1653388306593	OK	 
+REQUEST		/api/services/app/UserLink/GetRecentlyUsedLinkedUsers	1653388306263	1653388306593	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/UserLink/GetRecentlyUsedLinkedUsers	1653388306237	1653388306593	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr?enc_auth_token=w	1653388306285	1653388306601	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 404
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388306239	1653388306602	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388306309	1653388306609	OK	 
+REQUEST		/api/services/app/TCMTasks/GetMyTasksSummary	1653388306284	1653388306609	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMCases/GetAllMyOpenCases	1653388306285	1653388306610	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMCases/GetAllMyOpenCases	1653388306263	1653388306612	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388306238	1653388306613	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388306284	1653388306614	OK	 
+REQUEST		/api/services/app/TCMTasks/GetAllMyOpenTasks	1653388306343	1653388306616	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/UserLink/GetRecentlyUsedLinkedUsers	1653388306238	1653388306618	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr-chat?enc_auth_token=w	1653388306237	1653388306618	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 404
+REQUEST		/api/services/app/TCMTasks/GetAllMyOpenTasks	1653388306291	1653388306625	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388306371	1653388306625	OK	 
+REQUEST		/api/services/app/TCMTasks/GetTeamTasksSummary	1653388306348	1653388306630	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMTasks/GetMyTasksSummary	1653388306326	1653388306630	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388306372	1653388306631	OK	 
+REQUEST		/api/services/app/TCMTasks/GetAllMyOpenTasks	1653388306325	1653388306633	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388306371	1653388306635	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388306365	1653388306637	OK	 
+REQUEST		/api/services/app/TCMTasks/GetMyTasksSummary	1653388306371	1653388306643	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMTasks/GetAllMyOpenTasks	1653388306365	1653388306645	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388306372	1653388306646	OK	 
+REQUEST		/api/services/app/UserLink/GetRecentlyUsedLinkedUsers	1653388306273	1653388306646	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMCases/GetAllMyOpenCases	1653388306375	1653388306646	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMTasks/GetMyTasksSummary	1653388306372	1653388306652	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr-chat?enc_auth_token=	1653388306613	1653388306688	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306611	1653388306688	OK	 
+REQUEST		/signalr-chat?enc_auth_token=	1653388306585	1653388306689	OK	 
+REQUEST		/signalr-chat?enc_auth_token=	1653388306585	1653388306689	OK	 
+REQUEST		/api/services/app/TCMOrganizationUnit/GetUserOrganizationUnits	1653388306612	1653388306692	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306593	1653388306693	OK	 
+REQUEST		/signalr-chat?enc_auth_token=w	1653388306267	1653388306706	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 404
+REQUEST		/api/services/app/TCMTasks/GetAllMyOpenTasks	1653388306267	1653388306707	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMTasks/GetMyTasksSummary	1653388306374	1653388306707	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr/negotiate?enc_auth_token=	1653388306278	1653388306714	OK	 
+REQUEST		/signalr-chat?enc_auth_token=	1653388306593	1653388306724	OK	 
+REQUEST		/api/services/app/UserLink/GetRecentlyUsedLinkedUsers	1653388306316	1653388306724	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMTasks/GetMyTasksSummary	1653388306374	1653388306725	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr-chat?enc_auth_token=	1653388306615	1653388306725	OK	 
+REQUEST		/api/services/app/TCMTasks/GetAllMyOpenTasks	1653388306343	1653388306726	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr-chat?enc_auth_token=	1653388306633	1653388306726	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306631	1653388306726	OK	 
+REQUEST		/api/services/app/TCMCases/GetAll?Filter=&EntityId=0&ShowAll=false&Sorting=lastModificationTime%20DESC&SkipCount=0&MaxResultCount=10	1653388306689	1653388306774	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306689	1653388306774	OK	 
+REQUEST		/api/services/app/TCMCases/GetAll?Filter=&EntityId=0&ShowAll=false&Sorting=lastModificationTime%20DESC&SkipCount=0&MaxResultCount=10	1653388306692	1653388306775	OK	 
+REQUEST		/api/services/app/TCMTasks/GetAllMyOpenTasks	1653388306270	1653388306775	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMCases/GetAllMyOpenCases	1653388306410	1653388306776	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMCases/GetAllMyOpenCases	1653388306365	1653388306776	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr?enc_auth_token=	1653388306643	1653388306778	OK	 
+REQUEST		/signalr-chat?enc_auth_token=	1653388306635	1653388306778	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306653	1653388306788	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306725	1653388306788	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306647	1653388306788	OK	 
+REQUEST		/api/services/app/TCMOrganizationUnit/GetUserOrganizationUnits	1653388306688	1653388306788	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306726	1653388306796	OK	 
+REQUEST		/api/services/app/TCMTasks/GetMyTasksSummary	1653388306410	1653388306796	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMOrganizationUnit/GetUserOrganizationUnits	1653388306291	1653388306800	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMTasks/GetTeamTasksSummary	1653388306410	1653388306800	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/UserLink/GetRecentlyUsedLinkedUsers	1653388306454	1653388306811	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr?enc_auth_token=	1653388306616	1653388306811	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 404
+REQUEST		/api/services/app/TCMCases/GetAllMyOpenCases	1653388306531	1653388306811	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMCases/GetAllMyOpenCases	1653388306452	1653388306813	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMOrganizationUnit/GetUserOrganizationUnits	1653388306688	1653388306845	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306726	1653388306856	OK	 
+REQUEST		/api/services/app/TCMOrganizationUnit/GetUserOrganizationUnits	1653388306776	1653388306857	OK	 
+REQUEST		/api/services/app/TCMCases/GetAll?Filter=&EntityId=0&ShowAll=false&Sorting=lastModificationTime%20DESC&SkipCount=0&MaxResultCount=10	1653388306796	1653388306861	OK	 
+REQUEST		/api/services/app/TCMOrganizationUnit/GetUserOrganizationUnits	1653388306776	1653388306861	OK	 
+REQUEST		/api/services/app/TCMCases/GetAll?Filter=&EntityId=0&ShowAll=false&Sorting=lastModificationTime%20DESC&SkipCount=0&MaxResultCount=10	1653388306788	1653388306862	OK	 
+REQUEST		/api/services/app/TCMTasks/GetTeamTasksSummary	1653388306571	1653388306881	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr?enc_auth_token=	1653388306724	1653388306883	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306725	1653388306883	OK	 
+REQUEST		/signalr-chat?enc_auth_token=	1653388306788	1653388306894	OK	 
+REQUEST		/signalr-chat?enc_auth_token=	1653388306800	1653388306894	OK	 
+REQUEST		/api/services/app/TCMOrganizationUnit/GetUserOrganizationUnits	1653388306813	1653388306894	OK	 
+REQUEST		/signalr-chat?enc_auth_token=	1653388306812	1653388306894	OK	 
+REQUEST		/api/services/app/TCMOrganizationUnit/GetUserOrganizationUnits	1653388306796	1653388306894	OK	 
+REQUEST		/api/services/app/TCMCases/GetAll?Filter=&EntityId=0&ShowAll=false&Sorting=lastModificationTime%20DESC&SkipCount=0&MaxResultCount=10	1653388306778	1653388306894	OK	 
+REQUEST		/api/services/app/TCMCases/GetAll?Filter=&EntityId=0&ShowAll=false&Sorting=lastModificationTime%20DESC&SkipCount=0&MaxResultCount=10	1653388306812	1653388306894	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306585	1653388306895	OK	 
+REQUEST		/api/services/app/TCMCases/GetAll?Filter=&EntityId=0&ShowAll=false&Sorting=lastModificationTime%20DESC&SkipCount=0&MaxResultCount=10	1653388306856	1653388306895	OK	 
+REQUEST		/signalr-chat?enc_auth_token=	1653388306774	1653388306895	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306774	1653388306895	OK	 
+REQUEST		/signalr-chat?enc_auth_token=	1653388306846	1653388306895	OK	 
+REQUEST		/api/services/app/TCMOrganizationUnit/GetUserOrganizationUnits	1653388306788	1653388306895	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306776	1653388306895	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306778	1653388306896	OK	 
+REQUEST		/api/services/app/TCMTasks/GetTeamTasksSummary	1653388306646	1653388306897	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr?enc_auth_token=	1653388306625	1653388306897	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 404
+REQUEST		/api/services/app/TCMTasks/GetAllMyOpenTasks	1653388306544	1653388306911	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr?enc_auth_token=	1653388306646	1653388306914	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 404
+REQUEST		/signalr?enc_auth_token=	1653388306618	1653388306914	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 404
+REQUEST		/signalr?enc_auth_token=	1653388306645	1653388306916	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 404
+REQUEST		/signalr?enc_auth_token=	1653388306593	1653388306918	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 404
+REQUEST		/signalr?enc_auth_token=	1653388306631	1653388306920	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 404
+REQUEST		/signalr?enc_auth_token=	1653388306625	1653388306922	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 404
+REQUEST		/signalr?enc_auth_token=	1653388306569	1653388306922	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 404
+REQUEST		/api/services/app/TCMCases/GetAllMyOpenCases	1653388306523	1653388306928	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMTasks/GetTeamTasksSummary	1653388306632	1653388306934	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr?enc_auth_token=	1653388306638	1653388306935	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 404
+REQUEST		/signalr?enc_auth_token=w	1653388306707	1653388306937	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 404
+REQUEST		/api/services/app/TCMTasks/GetTeamTasksSummary	1653388306593	1653388306937	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr?enc_auth_token=	1653388306610	1653388306938	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 404
+REQUEST		/signalr-chat?enc_auth_token=	1653388306882	1653388306940	OK	 
+REQUEST		/api/services/app/Chat/GetUserChatFriendsWithSettings	1653388306571	1653388306948	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMTasks/GetTeamTasksSummary	1653388306553	1653388306948	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMTasks/GetTeamTasksSummary	1653388306602	1653388306949	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr-chat?enc_auth_token=	1653388306883	1653388306949	OK	 
+REQUEST		/api/services/app/TCMCases/GetAll?Filter=&EntityId=0&ShowAll=false&Sorting=lastModificationTime%20DESC&SkipCount=0&MaxResultCount=10	1653388306894	1653388306960	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306911	1653388306981	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306895	1653388306981	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306894	1653388306985	OK	 
+REQUEST		/signalr-chat?enc_auth_token=	1653388306894	1653388306985	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306894	1653388306985	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306916	1653388306991	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306895	1653388306991	OK	 
+REQUEST		/signalr-chat?enc_auth_token=	1653388306895	1653388306991	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306895	1653388306991	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306547	1653388306992	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 404
+REQUEST		/signalr?enc_auth_token=	1653388306707	1653388306995	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 404
+REQUEST		/api/services/app/TCMTasks/GetMyTasksSummary	1653388306585	1653388306996	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/api/services/app/TCMTasks/GetTeamTasksSummary	1653388306575	1653388306996	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr?enc_auth_token=	1653388306920	1653388306997	OK	 
+REQUEST		/signalr-chat?enc_auth_token=	1653388306896	1653388307000	OK	 
+REQUEST		/signalr-chat?enc_auth_token=	1653388306935	1653388307000	OK	 
+REQUEST		/signalr-chat?enc_auth_token=	1653388306895	1653388307006	OK	 
+REQUEST		/signalr?enc_auth_token=wNYm	1653388306776	1653388307010	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 404
+REQUEST		/api/services/app/TCMCases/GetAllMyOpenCases	1653388306593	1653388307010	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		/signalr?enc_auth_token=	1653388306938	1653388307012	OK	 
+REQUEST		/signalr?enc_auth_token=w	1653388306857	1653388307016	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 404
+REQUEST		/signalr-chat?enc_auth_token=	1653388306914	1653388307027	OK	 
+REQUEST		/signalr-chat/negotiate?enc_auth_token=	1653388306584	1653388307027	OK	 
+REQUEST		/signalr-chat?enc_auth_token=	1653388306914	1653388307028	OK	 
+REQUEST		/signalr-chat?enc_auth_token=	1653388306922	1653388307028	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306715	1653388307030	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 404
+REQUEST		/signalr?enc_auth_token=w	1653388306788	1653388307030	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 404
+REQUEST		/signalr?enc_auth_token=w	1653388306883	1653388307032	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 404
+REQUEST		/signalr?enc_auth_token=	1653388306981	1653388307036	OK	 
+REQUEST		/signalr?enc_auth_token=w	1653388306693	1653388307039	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 404
+REQUEST		/signalr?enc_auth_token=	1653388306949	1653388307058	OK	 
+REQUEST		/api/services/app/TCMOrganizationUnit/GetUserOrganizationUnits	1653388306997	1653388307058	OK	 
+REQUEST		/signalr?enc_auth_token=	1653388306995	1653388307058	OK	 
+REQUEST		/signalr-chat?enc_auth_token=	1653388306960	1653388307058	OK	 
+REQUEST		
